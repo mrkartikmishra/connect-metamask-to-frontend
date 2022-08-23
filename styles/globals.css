@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.mainContainer {
+    background-color: darkslategray;
+    height: 100vh;
+}
+
+.card {
+    border: 1px solid red;
+    width: 40%;
+    height: 50vh;
+}

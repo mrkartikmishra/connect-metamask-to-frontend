@@ -1,0 +1,14 @@
+.header {
+    background-color: black;
+}
+
+.logo {
+    color: #fff;
+}
+
+.header_left {
+    display: flex;
+    align-items: center;
+    padding: 2px;
+    margin-left: 20px;
+}
